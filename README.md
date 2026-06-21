@@ -36,6 +36,8 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
 
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```yaml
 name: Panadora-z
 location: Vietnam 🇻🇳
@@ -58,6 +60,56 @@ fun_facts:
 
 motto: "Code is poetry written in logic 🖋️"
 ```
+
+<br clear="both"/>
+
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚡ Quick Facts
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+🔭 I'm currently working on **AI-powered web apps**
+
+🌱 I'm currently learning **LLMs & Transformer Architecture**
+
+💬 Ask me about **React, Python, Node.js, AI/ML**
+
+⚡ Fun fact: **I mass "production-ready" at 3am**
+
+🎯 Goals: **Contribute to Open Source & Build SaaS products**
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panadora-z&layout=donut&theme=radical&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false" alt="Top Languages Donut"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 Skill Level
+
+<div align="center">
+
+```text
+Frontend        ████████████████████░░░░   85%
+Backend         ██████████████████░░░░░░   75%
+AI / ML         ████████████████░░░░░░░░   65%
+DevOps          ██████████████░░░░░░░░░░   55%
+UI/UX Design    ████████████████████░░░░   80%
+Database        ██████████████████░░░░░░   72%
+```
+
+</div>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -168,10 +220,85 @@ motto: "Code is poetry written in logic 🖋️"
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🎵 Vibing To
+
+<div align="center">
+
+> *🎧 When I code, I listen to...*
+
+<table>
+<tr>
+<td align="center">🎸<br/><b>Lo-Fi Beats</b><br/><sub>For deep focus sessions</sub></td>
+<td align="center">🎹<br/><b>Synthwave</b><br/><sub>For that cyberpunk mood</sub></td>
+<td align="center">🎵<br/><b>EDM</b><br/><sub>When deadlines are close</sub></td>
+<td align="center">🎻<br/><b>Classical</b><br/><sub>For algorithm problems</sub></td>
+</tr>
+</table>
+
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 😂 Random Dev Meme
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=%230d1117&borderColor=%2300f0ff&qColor=%2300f0ff&aColor=%23c9d1d9" alt="Programming Joke" />
+
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 💬 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏅 Fun Badges
+
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Works%20On-My%20Machine-00f0ff?style=for-the-badge&labelColor=0d1117" alt="Works on my machine"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Powered%20By-Coffee%20☕-FFDD00?style=for-the-badge&labelColor=0d1117" alt="Powered by Coffee"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Code%20Quality-S%20Tier-00ff00?style=for-the-badge&labelColor=0d1117" alt="Code Quality"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Bug%20Free-99.9%25-ff6b6b?style=for-the-badge&labelColor=0d1117" alt="Bug Free"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-ff69b4?style=for-the-badge&labelColor=0d1117" alt="Open Source"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dark%20Mode-Always%20🌙-9945FF?style=for-the-badge&labelColor=0d1117" alt="Dark Mode"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Stack%20Overflow-Copy%20Paste%20Expert-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0d1117" alt="Stack Overflow"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git%20Commit-At%203AM-00f0ff?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git Commit"/>
+</p>
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 This Week I Spent My Time On
+
+<div align="center">
+
+```text
+🌐 Web Development    ██████████████░░░░░░░░   58.32%
+🧠 AI / ML Projects   ████████░░░░░░░░░░░░░░   22.15%
+📱 Mobile Dev         ████░░░░░░░░░░░░░░░░░░   10.28%
+📖 Learning           ██░░░░░░░░░░░░░░░░░░░░    5.45%
+🎮 Gaming             █░░░░░░░░░░░░░░░░░░░░░    3.80%
+```
+
 </div>
 
 <!-- NEON DIVIDER -->
