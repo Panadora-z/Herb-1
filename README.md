@@ -158,7 +158,7 @@ motto: "Code is poetry written in logic 🖋️"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Herb-1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Herb-1&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </div>
 
 <!-- NEON DIVIDER -->
@@ -173,9 +173,6 @@ motto: "Code is poetry written in logic 🖋️"
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Herb-1/Herb-1/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-> 💡 **Tip:** To enable the snake animation, add a GitHub Action in your profile repo!
-> Create `.github/workflows/snake.yml` — see setup instructions below.
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
